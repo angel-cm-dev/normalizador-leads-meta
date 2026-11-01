@@ -1,0 +1,10 @@
+id,created_time,ad_id,ad_name,campaign_name,form_name,platform,full_name,email,phone_number
+l:1001,2026-10-01T09:15:22-0500,ad_01,Video promo,Campaña Octubre,Formulario Cotización,fb,  maria   lopez DE la cruz ,Maria.Lopez@GMAIL.com,p:+51987654321
+l:1002,2026-10-01T10:02:10-0500,ad_01,Video promo,Campaña Octubre,Formulario Cotización,ig,JUAN PEREZ,juan.perez@gmial.com,987 111 222
+l:1003,2026-10-01T11:45:00-0500,ad_02,Carrusel,Campaña Octubre,Formulario Cotización,fb,Rosa Quispe 😊,rosa.quispe@hotmail,0051 912-345-678
+l:1004,2026-10-02T08:30:12-0500,ad_02,Carrusel,Campaña Octubre,Formulario Cotización,fb,Maria Lopez,maria.lopez@gmail.com,51987654321
+l:1005,2026-10-02T09:12:45-0500,ad_03,Imagen,Campaña Octubre,Formulario Cotización,ig,Carlos Mendoza,,(01) 234-5678
+l:1006,2026-10-02T14:20:33-0500,ad_03,Imagen,Campaña Octubre,Formulario Cotización,fb,test,test@test,12345
+l:1007,2026-10-03T16:05:00-0500,ad_01,Video promo,Campaña Octubre,Formulario Cotización,fb,ana sofía ramírez,ANA.RAMIREZ@outlook.com ,+51 044 123456
+l:1008,2026-10-03T17:40:19-0500,ad_02,Carrusel,Campaña Octubre,Formulario Cotización,ig,Luis Torres,luis.torres@yahoo.com,+51987111222
+l:1009,2026-10-04T12:00:00-0500,ad_03,Imagen,Campaña Octubre,Formulario Cotización,fb,Pedro Huamán,pedro.huaman@gmail.con,999888777

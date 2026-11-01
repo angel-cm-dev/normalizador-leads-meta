@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "normalizador-leads-meta"
+version = "1.0.0"
+description = "CLI para limpiar exportaciones CSV de Meta Lead Ads (teléfonos +51, emails, nombres, duplicados)."
+authors = [{ name = "Angel Castañeda Meza" }]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+
+[project.scripts]
+normalizar-leads = "normalizador_leads.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
